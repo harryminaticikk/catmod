@@ -1,0 +1,52 @@
+{
+    "bot": {
+        "owner": ["745286954752671744", "436448235067015175"],
+        "botdurum": "⭐ Cat Community",
+        "prefix": ".",
+        "GuildID": "960243278475829249"
+    },
+    "penals": {
+        "ban": {
+            "staff": "960607021189713922",
+            "log": "962374571930042439",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "960607021189713922",
+            "roles": "962375511902937169",
+            "log": "962374583359520930",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "960253071492005888",
+            "roles": "962375515099000842",
+            "log": "962374617153011712",
+            "limit": 5
+        },
+      "points": {
+        "mutepoints": "MUTE PUAN",
+        "banpoints": "BAN PUAN",
+        "jailpoints": "JAİL PUAN"
+      }
+    },
+    "logs": {
+        "messagelog": "962375046708486144",
+        "voicelog": "962375057231974410"
+
+    },
+    "roles": {
+        "boosterrole": "962342444232491020",
+        "viprole": "962345357403107378",
+        "designerrole": "962375505930231828",
+        "musiciansrole": "962376733896613928"
+    },
+    "channels": {
+        "chat": "960609674384797816",
+        "voicechannel": ""
+    },
+    "parents": {
+        "publicparents": "960256135493996554"
+    }
+
+    
+}
